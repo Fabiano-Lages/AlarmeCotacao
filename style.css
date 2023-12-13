@@ -1,0 +1,19 @@
+.negativo {
+    color: red !important;
+}
+
+button.btn-sm {
+    opacity: 0.6;
+}
+
+button.btn-sm:hover {
+    opacity: 1;
+}
+
+button.btn-sm:hover i::before {
+    font-weight: bold !important;
+}
+
+button.excluir {
+    color: red;
+}

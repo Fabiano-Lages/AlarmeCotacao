@@ -1,0 +1,32 @@
+{
+  "name": "alarmecotacao",
+  "version": "1.0.0",
+  "description": "Alarmes para cotações de moedas e ações",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabiano-Lages/AlarmeCotacao.git"
+  },
+  "keywords": [
+    "html",
+    "js",
+    "css",
+    "cotacao",
+    "bitcoin",
+    "acoes",
+    "binance",
+    "google",
+    "finance",
+    "finanças",
+    "googlefinance"
+  ],
+  "author": "Fabiano Teixeira Lages",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Fabiano-Lages/AlarmeCotacao/issues"
+  },
+  "homepage": "https://github.com/Fabiano-Lages/AlarmeCotacao#readme"
+}
